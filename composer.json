@@ -1,0 +1,16 @@
+{
+    "name": "rafael-techio/csv-handler",
+    "description": "A handler to improve the CSV reading and writing",
+    "autoload": {
+        "psr-4": {
+            "Techio\\CSVHandler\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Techio",
+            "email": "techiorafael@gmail.com"
+        }
+    ],
+    "require": {}
+}
